@@ -1,0 +1,13 @@
+name: CRC_functional
+channels:
+  - defaults
+dependencies:
+  - python
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - pyarrow
+  - shap
+prefix: /opt/anaconda3/envs/CRC_functional
